@@ -1,5 +1,5 @@
 # Book Reviews
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)]
 
 ## Overview
 
@@ -7,7 +7,6 @@ This web site features 5000 hand picked books allowing users to search, leave re
 
 ## Overview Video
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/uu-D-DMLJMU/0.jpg)](https://www.youtube.com/watch?v=uu-D-DMLJMU)
 
 # Installation
 
